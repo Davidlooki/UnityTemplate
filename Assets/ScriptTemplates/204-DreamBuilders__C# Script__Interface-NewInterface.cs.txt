@@ -1,0 +1,8 @@
+public interface #SCRIPTNAME#
+{
+    #region Fields
+    #endregion
+ 
+    #region Custom Methods
+    #endregion
+}

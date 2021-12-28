@@ -1,0 +1,14 @@
+using UnityEngine;
+
+[CreateAssetMenu(fileName = "New #SCRIPTNAME#", menuName = "AnduraStudio/#SCRIPTNAME#", order = 1)]
+public class #SCRIPTNAME# : ScriptableObject
+{
+    #region Fields
+    #endregion
+	
+	#region Unity Methods
+    #endregion
+ 
+    #region Custom Methods
+    #endregion
+}
